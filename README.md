@@ -1,1 +1,1 @@
-# User-Activity-Analysis---SQL
+# User-Activity-Analysis-SQL
